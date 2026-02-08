@@ -1,10 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta char set="UTF-8">
 <meta name="viewport">
-content="width=device-width,inital-scale=1.0"<>
-<title>JITHU | Port folio </title>
+<title>JITHU | Portfolio </title>
 <style>
         body { font-family: 'Inter', sans-serif; background-color: #0d1117; color: #c9d1d9; margin: 0; padding: 20px; text-align: center; }
         .card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 30px; max-width: 500px; margin: 40px auto; }
